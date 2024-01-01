@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello, I'm Maryan Yaroma! 👋
+🎮 Game developer with 12 years of experience, dedicated to crafting tools for creating amazing projects. 🚀
 
 <!--
 **iaroma/iaroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
